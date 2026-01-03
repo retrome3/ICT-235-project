@@ -32,8 +32,3 @@ Developed for **ICT 235 – Frontend Development**.
 
 ---
 
-## 📚 Course Information
-- **Course:** ICT 235 – Frontend Development  
-- **University:** Bells University of Technology  
-- **Instructor:** Ayuba Muhammad (New Horizons ICT)  
-- **Date:** 3 January 2025
