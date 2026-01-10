@@ -56,15 +56,11 @@ src/
 
 ## 👥 Team Members
 
-- **[Bello Mubarak]** - Lead Developer
-- **[Team Member 2]** - UI/UX Design
-- **[Team Member 3]** - Testing & Documentation
-- **[Team Member 4]** - Feature Development
+- **Bello Mubarak** - Lead Developer
+- **Agboola Abdullah** - UI/UX Design
+- **Ogunibi Olamide** - Testing & Documentation
+- **Tijani Aleem** - Feature Development
+- **DEV 5** - Github publishing
+- **dev 6** - Figma design
 
- **B– Lead Developer**
- Tijani Aleem – Developer
- Agboola Abdullah – Testing
- Ogunibi Olamide – Design
- Developer 3 – Contributor
- Developer 4 – Contributor"
 ```
