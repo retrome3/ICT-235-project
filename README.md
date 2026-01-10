@@ -62,5 +62,3 @@ src/
 - **Tijani Aleem** - Feature Development
 - **DEV 5** - Github publishing
 - **dev 6** - Figma design
-
-```
