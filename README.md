@@ -59,6 +59,6 @@ src/
 - **Bello Mubarak** - Lead Developer
 - **Agboola Abdullah** - UI/UX Design
 - **Ogunibi Olamide** - Testing & Documentation
-- **Tijani Aleem** - Feature Development
-- **DEV 5** - Github publishing
+- **Tijani Aleem** - Website deployer
+- **DEV 5** - Github publisher
 - **dev 6** - Figma design
