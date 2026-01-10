@@ -55,7 +55,7 @@ src/
 ```
 
 ## 👥 Team Members
- Bello Mubarak – Lead Developer
+ **Bello Mubarak – Lead Developer**
  Tijani Aleem – Developer
  Agboola Abdullah – Testing
  Ogunibi Olamide – Design
