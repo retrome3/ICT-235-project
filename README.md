@@ -55,7 +55,13 @@ src/
 ```
 
 ## 👥 Team Members
- **Bello Mubarak – Lead Developer**
+
+- **[Bello Mubarak]** - Lead Developer
+- **[Team Member 2]** - UI/UX Design
+- **[Team Member 3]** - Testing & Documentation
+- **[Team Member 4]** - Feature Development
+
+ **B– Lead Developer**
  Tijani Aleem – Developer
  Agboola Abdullah – Testing
  Ogunibi Olamide – Design
