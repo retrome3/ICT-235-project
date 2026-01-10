@@ -1,4 +1,3 @@
-```markdown
 # 🏫 Bells University Digital Notice Board
 
 A modern React-based digital notice board for campus announcements with dark/light theme support.
